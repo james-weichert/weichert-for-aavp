@@ -1,9 +1,37 @@
+/*
+
+COLORS
+
+Orange: #FA6C38
+Slate: #698996
+Blue: #115566
+
+*/
+
+
 h1, h2 {
 	font-family: josefin-sans, sans-serif;
-
 	font-weight: 700;
-
 	font-style: normal;
 
+	line-height: 1em;
+}
+
+h1 {
+	font-size: 4em;
+	color: #FA6C38;
+}
+h2 {
+	font-size: 2.5em;
+	color: #115566;
+}
+
+#main {
+
+	text-align: center;
+
+	width: 70vw;
+	margin-left: 15vw;
+	margin-top: 10vh;
 
 }
