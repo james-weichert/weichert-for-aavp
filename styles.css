@@ -195,7 +195,7 @@ a.left:hover:before {
 	padding-right: 1vw;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 850px) {
   .flex div {
   	width: 40vw;
   	min-width: 300px;
@@ -205,6 +205,18 @@ a.left:hover:before {
   	min-width: 300px;
   }
 }
+
+@media only screen and (orientation: portrait) {
+  .flex div {
+  	width: 40vw;
+  	min-width: 300px;
+  }
+  #people div {
+  	width: 40vw;
+  	min-width: 300px;
+  }
+}
+
 
 #people div {
 	width: 15vw !important;
