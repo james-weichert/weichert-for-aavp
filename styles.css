@@ -215,6 +215,10 @@ a.left:hover:before {
   	width: 40vw;
   	min-width: 300px;
   }
+  p {
+  	font-size: 1.3em;
+	line-height: 1.7em;
+  }
 }
 
 
