@@ -197,7 +197,7 @@ a.left:hover:before {
 
 @media (max-width: 850px) {
   .flex div {
-  	width: 40vw;
+  	width: 60vw;
   	min-width: 300px;
   }
   #people div {
@@ -207,12 +207,15 @@ a.left:hover:before {
   p {
   	font-size: 1.3em;
 	line-height: 1.7em;
+  }
+  p {
+  	font-size: 1.2em;
   }
 }
 
 @media only screen and (orientation: portrait) {
   .flex div {
-  	width: 40vw;
+  	width: 60vw;
   	min-width: 300px;
   }
   #people div {
@@ -222,6 +225,9 @@ a.left:hover:before {
   p {
   	font-size: 1.3em;
 	line-height: 1.7em;
+  }
+  li {
+  	font-size: 1.2em;
   }
 }
 
