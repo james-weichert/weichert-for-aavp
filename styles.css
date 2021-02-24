@@ -216,7 +216,7 @@ a.left:hover:before {
 @media only screen and (orientation: portrait) {
   .flex div {
   	width: 60vw;
-  	min-width: 300px;
+  	min-width: 500px;
   }
   #people div {
   	width: 40vw;
