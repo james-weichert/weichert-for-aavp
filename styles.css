@@ -198,11 +198,11 @@ a.left:hover:before {
 @media (max-width: 850px) {
   .flex div {
   	width: 60vw;
-  	min-width: 300px;
+  	min-width: 500px;
   }
   #people div {
-  	width: 40vw;
-  	min-width: 300px;
+  	width: 50vw;
+  	min-width: 400px;
   }
   p {
   	font-size: 1.3em;
@@ -219,8 +219,8 @@ a.left:hover:before {
   	min-width: 500px;
   }
   #people div {
-  	width: 40vw;
-  	min-width: 300px;
+  	width: 50vw;
+  	min-width: 400px;
   }
   p {
   	font-size: 1.3em;
