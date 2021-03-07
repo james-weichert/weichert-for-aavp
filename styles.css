@@ -231,6 +231,9 @@ a.left:hover:before {
   }
 }
 
+#people {
+	justify-content: center;
+}
 
 #people div {
 	width: 15vw !important;
