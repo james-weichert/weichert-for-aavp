@@ -237,6 +237,7 @@ a.left:hover:before {
 
 #people div {
 	width: 15vw !important;
+	padding-bottom: 2vw;
 
 }
 
