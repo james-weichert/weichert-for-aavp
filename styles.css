@@ -293,3 +293,7 @@ a.left:hover:before {
 	padding-left: 2vw;
 	padding-right: 2vw;
 }
+
+#orange_highlight {
+	color: #FA6C38;
+}
