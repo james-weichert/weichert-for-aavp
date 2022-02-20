@@ -77,6 +77,13 @@ h4 {
 	width: 100%;
 }
 
+#header {
+	position: absolute;
+	width: 70vw;
+	left: 50%;
+	margin-left: -35vw;
+
+}
 #header, #featured {
 	text-align: center;
 }
@@ -103,8 +110,30 @@ h4 {
 	padding-bottom: 5vh;
 }
 
-#footer {
+#comingsoon {
+	position: absolute;
 	text-align: center;
+	width: 80vw;
+	left: 50%;
+	margin-left: -40vw;
+
+	margin-top: 40vh;
+}
+#maintag {
+	color: #115566;
+}
+#subtag {
+	color: #115566 !important;
+}
+
+#footer {
+	position: fixed;
+	width: 30vw;
+	left: 50%;
+	margin-left: -15vw;
+	text-align: center;
+	bottom: 0;
+	margin-bottom: 3vh;
 }
 #footer h3 {
 	color: #FA6C38;
@@ -163,9 +192,9 @@ a.left:hover:before {
 }
 
 .sectiontitle {
-	border-bottom: 0.2em solid #FA6C38; 
+	border-bottom: 0.2em solid #FA6C38;
    line-height: 0.1em;
-   margin: 10px 0 20px; 	
+   margin: 10px 0 20px;
 }
 .sectiontitle span {
 	background: white;
@@ -261,7 +290,7 @@ a.left:hover:before {
 .center {
 	text-align: center;
 	margin-left: 2%;
-	
+
 }
 
 .underline {
